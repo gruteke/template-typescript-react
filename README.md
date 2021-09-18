@@ -5,7 +5,11 @@ This is a [Create React App](https://create-react-app.dev/) template configured 
 ## Next Steps
 
 Click the button below to start a new development environment:
-Hello2
+
+
+## Kendo UI
+https://docs.telerik.com/kendo-ui/intro/first-steps 
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-typescript-react)
 
